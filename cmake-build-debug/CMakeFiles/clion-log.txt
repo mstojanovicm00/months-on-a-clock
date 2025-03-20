@@ -1,0 +1,4 @@
+/home/mihajlo-stojanovic/Downloads/CLion-2022.2.4/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mihajlo-stojanovic/Downloads/CLion-2022.2.4/clion-2022.2.4/bin/ninja/linux/ninja -G Ninja -S /home/mihajlo-stojanovic/CLionProjects/Months-on-a-Clock -B /home/mihajlo-stojanovic/CLionProjects/Months-on-a-Clock/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mihajlo-stojanovic/CLionProjects/Months-on-a-Clock/cmake-build-debug

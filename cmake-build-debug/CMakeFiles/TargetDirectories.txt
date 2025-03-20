@@ -1,0 +1,3 @@
+/home/mihajlo-stojanovic/CLionProjects/Months-on-a-Clock/cmake-build-debug/CMakeFiles/Months_on_a_Clock.dir
+/home/mihajlo-stojanovic/CLionProjects/Months-on-a-Clock/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mihajlo-stojanovic/CLionProjects/Months-on-a-Clock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
